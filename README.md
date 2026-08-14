@@ -19,14 +19,87 @@ Here are some ideas to get you started:
 > [!TIP]
 > Helpful advice for doing things better or more easily.
 
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+<h1 align="center">Привет! Я Aki 👋</h1>
 
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Разработчик;Создаю+крутые+проекты;Люблю+учиться+новому" alt="Typing SVG" />
+</p>
 
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
-### 📊 Статистика
-![GitHub статистика](https://github-readme-stats.vercel.app/api?username=my-name-aki&show_icons=true&theme=dark)
-![Snake animation](https://github.com/my-name-aki/my-name-aki/blob/output/github-contribution-grid-snake.svg)
+---
+
+### 👨‍💻 Обо мне
+
+- 🔭 Сейчас работаю над своими пет-проектами
+- 🌱 Постоянно учусь и развиваюсь
+- 💬 Спрашивай меня о чём угодно
+- ⚡ Факт: код — это моя суперсила
+
+---
+
+### 🛠 Технологии, с которыми работаю
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+> ⚡ **Подсказка:** Замени эти значки на свои технологии, если нужно
+
+---
+
+### 📊 Моя статистика
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=my-name-aki&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=my-name-aki&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 🔥 Тепловая карта активности
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=my-name-aki&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+### 🌐 Где меня найти
+
+<p align="left">
+  <a href="https://t.me/my-name-aki" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:твоя@почта.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</div>
+
+> 💡 Замени ссылки (где стоит `#`) на свои актуальные
+
+---
+
+### 🐍 Змейка, которая ест мои коммиты
+
+<div align="center">
+  <img src="https://github.com/my-name-aki/my-name-aki/blob/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+### ✨ Спасибо, что заглянул!
+
+⭐ Если понравился мой профиль — поставь звёздочку репозиторию  
+💬 Всегда открыт к общению и сотрудничеству
