@@ -28,8 +28,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-> ⚡ **Подсказка:** Замени эти значки на свои технологии, если нужно
-
 ---
 
 ### 🔥 Тепловая карта активности
