@@ -13,13 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Section Heading
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 
-Some body text of this section.
+> [!TIP]
+> Helpful advice for doing things better or more easily.
 
-<a name="my-custom-anchor-point"></a>
-Some text I want to provide a direct link to, but which doesn't have its own heading.
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
 
-(… more content…)
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
 
-[A link to that custom anchor](#my-custom-anchor-point)
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
