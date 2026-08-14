@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Привет! Я Aki 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Разработчик;Создаю+крутые+проекты;Люблю+учиться+новому" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Разработчик;Инженер+программист;Может+быть+возьмёте+меня+на+нормальную+работу" alt="Typing SVG" />
 </p>
 
 ---
