@@ -13,3 +13,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+> [!NOTE]
+
+> малополезно
+
+> [!TIP]
+
+> Полезно
+
+> [!IMPORTANT]
+
+> Важно
+
+> [!WARNING]
+
+> Предупреждение
+
+> [!CAUTION]
+
+> Осторожно
