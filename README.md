@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=28&pause=1000&color=72ACE5&center=false&repeat=true&width=435&lines=|++Hi+there+👋" alt="Typing SVG" /></a>
+
 <!--
 **my-name-aki/my-name-aki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,11 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
 
-> [!TIP]
-> Helpful advice for doing things better or more easily.
 
 <h1 align="center">Привет! Я Aki 👋</h1>
 
@@ -53,15 +49,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 Моя статистика
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=my-name-aki&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=my-name-aki&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ### 🔥 Тепловая карта активности
 
 <div align="center">
@@ -85,16 +72,6 @@ Here are some ideas to get you started:
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-</div>
-
-> 💡 Замени ссылки (где стоит `#`) на свои актуальные
-
----
-
-### 🐍 Змейка, которая ест мои коммиты
-
-<div align="center">
-  <img src="https://github.com/my-name-aki/my-name-aki/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
