@@ -13,22 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-> [!NOTE]
+# Section Heading
 
-> малополезно
+Some body text of this section.
 
-> [!TIP]
+<a name="my-custom-anchor-point"></a>
+Some text I want to provide a direct link to, but which doesn't have its own heading.
 
-> Полезно
+(… more content…)
 
-> [!IMPORTANT]
-
-> Важно
-
-> [!WARNING]
-
-> Предупреждение
-
-> [!CAUTION]
-
-> Осторожно
+[A link to that custom anchor](#my-custom-anchor-point)
