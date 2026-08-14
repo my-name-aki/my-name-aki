@@ -28,5 +28,4 @@ Here are some ideas to get you started:
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 ### 📊 Статистика
-![Твоя GitHub статистика](https://github-readme-stats.vercel.app/api?username=my-name-aki
-&show_icons=true&theme=dark)
+![GitHub статистика](https://github-readme-stats.vercel.app/api?username=my-name-aki&show_icons=true&theme=dark)
