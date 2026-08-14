@@ -1,20 +1,3 @@
-
-<!--
-**my-name-aki/my-name-aki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <h1 align="center">Привет! Я Aki 👋</h1>
 
 <p align="center">
@@ -25,10 +8,10 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 Обо мне
 
-- 🔭 Сейчас работаю над своими пет-проектами
-- 🌱 Постоянно учусь и развиваюсь
-- 💬 Спрашивай меня о чём угодно
-- ⚡ Факт: код — это моя суперсила
+- 🔭 Работаю на должности инженера программиста 1 год 
+- 🌱 Хорошо срабатываюсь с людьми
+- 💬 Спрашивай меня о чём угодно если нужна помощь
+- ⚡ Факт: Прыгал с парашутом
 
 ---
 
