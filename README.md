@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 > Advises about risks or negative outcomes of certain actions.
 ### 📊 Статистика
 ![GitHub статистика](https://github-readme-stats.vercel.app/api?username=my-name-aki&show_icons=true&theme=dark)
+![Snake animation](https://github.com/твой-ник/твой-ник/blob/output/github-contribution-grid-snake.svg)
